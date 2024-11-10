@@ -1,0 +1,199 @@
+.header
+{
+    height: 300px;
+    width: 1000px;
+    background-color: #FF99CC;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h
+{
+    height: 250px;
+    width: 1000px;
+}
+.logo
+{
+    float: left;
+}
+.name
+{
+    height: 250px;
+    width: 700px;
+    float: right;
+}
+.n
+{
+    position: relative;
+    top: 100px;
+    left: 240px;
+    font-size: 39px;
+}
+.menu
+{
+    height: 50px;
+    width: 1000px;
+    float: left;
+    background-color: #000000;
+}
+.menu ul li
+{
+    display: inline;
+    padding: 50px;
+}
+.menu ul li a 
+{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+}
+.footer
+{
+    height: 100px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000000;
+    color: #000000;
+}
+.copy
+{
+    height: 30px;
+    width: 300px;
+    position: relative;
+    top: 30px;
+    left: 300px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #99CCCC;
+    columns: #990000;
+}
+.home
+{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #999999;
+}
+.img
+{
+    float: left;
+}
+.heading
+{
+    height: 100px;
+    width: 500px;
+    float: right;
+    font-size: 20px;
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.para
+{
+    height: 400px;
+    width: 500px;
+    float: left;
+    text-align: justify;
+    font-size: 20px;
+}
+.about
+{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: 1000px 600px;
+}
+.img1
+{
+    float: left;
+}
+.img2
+{
+    float: left;
+}
+.img3
+{
+    float: right;
+}
+.img4
+{
+    float: left;
+}
+.img5
+{
+    float: left;
+}
+.img6
+{
+    float: right;
+}
+.service
+{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FF99CC;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.service table tr:nth-child(1)
+{
+    background-color: #990000;
+}
+.service table tr:hover
+{
+    background-color: aqua;
+    color: black;
+    font-size: 24px;
+}
+.contact
+{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #99CCCC;
+}
+.map
+{
+    float: left;
+}
+.address
+{
+    height: 300px;
+    width: 500px;
+    float: left;
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.contact1
+{
+    height: 300px;
+    width: 500px;
+    float: right;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.register
+{
+    height: 600px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #99CCCC;
+    text-align: center;
+    font-size: 24px;
+}
